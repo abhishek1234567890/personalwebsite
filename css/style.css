@@ -1,0 +1,138 @@
+
+body {
+   margin: 0;
+   text-align: center;
+   font-family: 'Merriweather', serif;
+   
+}
+a {
+    color: #11999E;
+    margin: 10px 20px;
+    font-family: 'Montserrat', sans-serif;
+    text-decoration: none;
+}
+
+a:hover{
+    color: whitesmoke;
+}
+
+.BUTTON_HGL {
+    background-color: #66BFBF; 
+    border-radius: 10px;
+    color: #FFFFFF;
+    font-family: sans-serif;
+    font-size: 24px;
+    font-weight: 100;
+    padding: 8px;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+    margin-bottom: 90px;
+    
+}
+
+.copyright{
+    color: whitesmoke;
+    font-size: 0.75rem;
+    padding: 20px 0;
+}
+
+h1 {
+    color: #66BFBF;
+    font-size: 5.625rem;
+    margin: 50px auto 0 auto;
+    font-family:'Sacramento', cursive;
+    
+}
+
+h2 {
+    color: #66BFBF;
+    font-size: 2.5rem;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: normal;
+    padding-bottom: 10px;
+
+}
+
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+}
+hr{
+    border-style: dotted none none none;
+    width: 4.5%;
+    border-width: 8px;
+    border-color: rgb(172, 179, 179);
+    margin-top: 100px;
+    margin-bottom: 100px;
+
+}
+.hot-wings {
+    text-align: center;
+    margin: 60px 30% 60px 30%;
+}
+.top-container {
+    background-color:#E4F6F6 ;
+    position: relative;
+    padding-top: 100px;
+    
+}
+.profile img{
+    border-radius: 50%;
+    height: 200px;
+    margin-top: 80px;
+    
+}
+.profile p{
+    text-align: center;
+    margin: auto 35% auto 35% ;
+}
+.middle-container{
+   
+
+}
+
+.bottom-container{
+    padding: 50px 0 20px;
+    
+    background-color: #66BFBF;
+   
+}
+.footer-link{}
+
+
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+    
+    
+}
+.code-gif{
+    width: 25%;
+    border-radius: 50%;
+    float: left;
+    margin-right: 30px;
+}
+.chilli-img {
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+.pro{
+    text-decoration: underline;
+}
+
+.bottom-cloud{
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+
+.top-cloud{
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
